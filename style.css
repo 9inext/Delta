@@ -67,10 +67,6 @@ nav a:hover{
     background-color: var(--cor4);
 }
 
-.ps5, .ken{
-    width: 200px;
-}
-
 main{
     max-width: 800px;
     min-width: 300px;

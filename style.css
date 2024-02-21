@@ -26,7 +26,7 @@ body{
 
 header{
     background-color: var(--cor4);
-    min-height: 200px;
+    min-height: 150px;
     text-align: center;
     background-image: linear-gradient(to bottom, var(--cor4), var(--cor5));
     color: white;
@@ -48,7 +48,7 @@ header p{
 }
 nav{
     background-color: var(--cor5);
-    padding: 15px;
+    padding: 10px;
     text-align: center;
 }
 
@@ -67,9 +67,13 @@ nav a:hover{
     background-color: var(--cor4);
 }
 
+.ps5, .ken{
+    width: 200px;
+}
+
 main{
     max-width: 800px;
-    min-width: 400px;
+    min-width: 300px;
     margin: auto;
     background-color: white;
     padding: 20px;
